@@ -39,9 +39,16 @@ Agents fail in quiet ways. Uncoil shows each run step by step so you find the ca
 
 ### Start in one paste
 
+**TypeScript**
+
 ```bash
-npm install @uncoil.dev/sdk   # TypeScript
-pip install uncoil-sdk        # Python
+npm install @uncoil.dev/sdk
+```
+
+**Python**
+
+```bash
+pip install uncoil-sdk
 ```
 
 Then follow the [quickstart](https://www.uncoil.dev/docs/quickstart) to send your first trace.
